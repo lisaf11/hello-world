@@ -1,4 +1,4 @@
 # hello-world
-begining a journey
+beginning a journey
 
-hello- world! this is the begining of my code journey!
+hello- world! this is the beginning of my code journey!
